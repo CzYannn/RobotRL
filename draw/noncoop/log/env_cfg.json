@@ -1,0 +1,32 @@
+{
+    "all_agent_info": [
+        {
+            "id": 0,
+            "gp": 0,
+            "radius": 0.1,
+            "goal_pos": [
+                13.0,
+                11.0
+            ]
+        },
+        {
+            "id": 1,
+            "gp": 0,
+            "radius": 0.1,
+            "goal_pos": [
+                10.0,
+                10.0
+            ]
+        },
+        {
+            "id": 2,
+            "gp": 0,
+            "radius": 0.1,
+            "goal_pos": [
+                11.0,
+                13.0
+            ]
+        }
+    ],
+    "all_obstacle": []
+}
